@@ -1,0 +1,15 @@
+Author: Blaz Pocrnja
+
+The following commands are to run the program from the Terminal window.
+
+
+"make" or "make main": : Allows you to compile and link the code into an executable.
+"make clean" : Deletes .o files and executable file.
+"make main.o" and/or "make dictionary.o" : Allows you to only compile each .cpp file.
+"./main < MyTextFile.dat" runs the executable with a given text file as input in the Assignment1 folder.
+
+Press Ctrl + Z to abort program at any time.
+
+Github Repository URL: https://github.com/BlazPocrnja/CS2010Assignment3.git
+
+
